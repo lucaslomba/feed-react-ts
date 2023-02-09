@@ -20,4 +20,4 @@ Before you start :checkered_flag:, you will need the [Node](https://nodejs.org/e
 ```bash
 Run npm run dev
 ```
-<h4 align="center">Feito com :black_heart: por <a href="https://github.com/lucaslomba">Lucas</a></h4>
+<h4 align="center">made with :black_heart: for <a href="https://github.com/lucaslomba">Lucas</a></h4>
