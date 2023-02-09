@@ -1,2 +1,23 @@
-# feed-react-ts
- 
+# Feed with React and TypeScript
+
+## :sparkles: Por que desse repositório ##
+
+:heavy_check_mark: Study the framework React and TypeScript
+
+
+## :rocket: Techs ##
+
+- [React](https://pt-br.reactjs.org/docs/getting-started.html)
+- [TypeScript](https://www.typescriptlang.org/docs/)
+- [ViteJs](https://vitejs.dev/guide/)
+
+## :white_check_mark: Pré requisitos ##
+
+Before you start :checkered_flag:, you will need the [Node](https://nodejs.org/en/) installed on your computer.
+
+## :checkered_flag: Começando ##
+
+```bash
+Run npm run dev
+```
+<h4 align="center">Feito com :black_heart: por <a href="https://github.com/lucaslomba">Lucas</a></h4>
